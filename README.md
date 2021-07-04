@@ -28,11 +28,12 @@
 -->
 
 <!-- Top Languages Card-->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats" />
-</a><a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&theme=onedark" />
-</a>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
+<p align="left">
+  <img alt="Top Langs" heignt="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+<!--<a href="https://github.com/anuraghazra/convoychat">-->
+  <img alt="GitHub Stats" heignt="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&theme=onedark" />
+</p>
 <!-- GitHub Stats Card-->
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
