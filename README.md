@@ -30,9 +30,9 @@
 
 <p align="left">
     <!-- Top Langs Card-->
-    <img alt="Top Langs" heignt="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
     <!-- GitHub Stats Card-->
-    <img alt="GitHub Stats" heignt="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&theme=onedark" />
+    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&theme=onedark" />
 </p>
 
 
