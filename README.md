@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm a.k.eng024 👋
 
 <!-- バッジ -->
 <!--
@@ -29,9 +29,9 @@
 
 <!-- Top Languages Card-->
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- GitHub Stats Card-->
 [![a.k.eng024's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats Card-->
+
 
 
 <!--
