@@ -1,5 +1,20 @@
 ### Hi I'm a.k.eng024 👋
 
+<!--
+**akeng024/akeng024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <!-- バッジ -->
 <!--
 <p align="left"> 
@@ -26,26 +41,15 @@
   </a>
 </p>
 -->
-
+<!-- Top Langs & GitHub Stats Cards-->
 <p align="left">
-    <!-- Top Langs Card-->
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-    <!-- GitHub Stats Card-->
     <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
+<!-- trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**akeng024/akeng024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeng024&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akeng024&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akeng024&theme=dracula)
