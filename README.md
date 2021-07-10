@@ -42,13 +42,16 @@ Here are some ideas to get you started:
 </p>
 -->
 <!-- Top Langs & GitHub Stats Cards-->
+<!--
 <p align="left">
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
     <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-
+-->
 <!-- trophies -->
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!-- Github profile summary cards -->
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
