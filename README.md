@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- バッジ -->
-<!--
 <p align="left"> 
   <a href="https://github.com/yutkat/yutkat/">
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
   </a>
 </p>
--->
+
 <!-- Top Langs & GitHub Stats Cards-->
 <!--
 <p align="left">
