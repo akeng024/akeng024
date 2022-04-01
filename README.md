@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Github profile summary cards -->
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
