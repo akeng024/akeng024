@@ -53,9 +53,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Github profile summary cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeng024&theme=dracula&count_private=true)
-
-旧
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
