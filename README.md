@@ -43,15 +43,17 @@ Here are some ideas to get you started:
 
 <!-- Top Langs & GitHub Stats Cards-->
 <p align="left">
+<!--     
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akeng024&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" />
+-->
+    <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=akeng024&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=onedark&hide_border=true" />
 </p>
 
 <!-- trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=akeng024&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Github profile summary cards -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeng024&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akeng024&theme=dracula&count_private=true)
 
 旧
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
