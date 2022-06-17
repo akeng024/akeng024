@@ -59,5 +59,9 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+<!--
 [![](https://activity-graph.herokuapp.com/graph?username=akeng024&theme=github)](https://activity-graph.herokuapp.com/graph?username=akeng024&theme=github)
+-->
+<!--
 [![](https://github-readme-streak-stats.herokuapp.com/?user=akeng024&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=akeng024&theme=dark)
+-->
