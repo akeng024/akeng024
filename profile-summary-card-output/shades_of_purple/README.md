@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
