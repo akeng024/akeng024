@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/akeng024/akeng024/main/profile-summary-card-output/great_gatsby/4-productive-time.svg)
+```
+
+    
